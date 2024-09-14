@@ -63,10 +63,9 @@
     .container{
         height: 50px;
     }
-    .details{
+
+    .item-added-to-cart{
         display: flex;
-        flex-direction: row;
-        gap: 50px;
-        
+        gap: 30px;
     }
 }
